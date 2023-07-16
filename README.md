@@ -12,7 +12,7 @@ Start the "Shortcut" through Siri to connect to the Azure OpenAI API, turning Si
 
 # Shortcut Download
 
-Click the link below to download shortcuts, support iPhone、iPad、Mac、HomePod、CarPlay.
+Click the link below to download the shortcut. It supports iPhone, iPad, Mac, HomePod, CarPlay.
 
 ### AzureGPT Siri 1.0
 
