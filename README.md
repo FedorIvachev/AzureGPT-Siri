@@ -1,4 +1,4 @@
-# 🤖️ AzureGPT Siri (Joyce)
+# 🤖️ AzureGPT Siri
 
 Start the "Shortcut" through Siri to connect to the Azure OpenAI API, turning Siri into an AI chat assistant. You can speak your question directly to Siri, and Siri will answer you. Now our Siri has finally become intelligent and can talk to us fluently! And all this can be done with just a Shortcut and an API key.
 
@@ -27,7 +27,7 @@ Open the "Shortcuts" app, find the downloaded "ChatGPT" shortcut, press and hold
 
 # How to use it
 
-Start the "shortcut" with Siri, just say "Hey, Siri, Joyce", and then you can start chatting with Siri, our Siri has become very smart, enjoy! 🎉
+Start the "shortcut" with Siri, just say "Hey, Siri, Azure", and then you can start chatting with Siri, our Siri has become very smart, enjoy! 🎉
 
 **If you don't like the name, you can rename the shortcut, change it to any name you like, and then you can chat with Siri just say "Hey, Siri, xxx", xxx is the new name you  chose, it's better not to add special symbols to the name. It’s hard to read the symbols 😂, If Siri cannot match the name of the shortcut, it won’t work!**
 
