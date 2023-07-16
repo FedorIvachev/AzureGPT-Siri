@@ -65,11 +65,7 @@ You can also customize system message, which help set the behavior of the assist
 
 > You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible. Knowledge cutoff: Sep 2021.
 
-Modify method, edit the "shortcut", slide down, and find the position as shown in the figure:
-
-<div align="center">
-<img width="240" src="img/IMG_system-message.png" />
-</div>
+Modify method, edit the "shortcut", slide down, and find the position.
 
 For example, you can replace system message with the following:
 
