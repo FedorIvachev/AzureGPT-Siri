@@ -21,7 +21,7 @@ Click the link below to download the shortcut. It supports iPhone, iPad, Mac, Ho
 
 # Edit shortcut to replace API key, Azure OpenAI Endpoint and Deployment Name
 
-Open the "Shortcuts" app, find the downloaded "ChatGPT" shortcut, press and hold to select "Edit", and paste the above API key, Azure OpenAI Endpoint and Deployment Name into the text boxes below.
+Open the "Shortcuts" app, find the downloaded "Azure" shortcut, press and hold to select "Edit", and paste the above API key, Azure OpenAI Endpoint and Deployment Name into the text boxes below.
 
 <div align="center">
 <img width="500" src="img/IMG_9585.JPG" />
