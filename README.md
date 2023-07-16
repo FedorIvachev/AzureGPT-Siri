@@ -1,7 +1,5 @@
 # 🤖️ AzureGPT Siri (Joyce)
 
-# 👉 [简体中文文档](README-zh_CN.md)
-
 Start the "Shortcut" through Siri to connect to the AzureGPT API, turning Siri into an AI chat assistant. You can speak your question directly to Siri, and Siri will answer you. Now our Siri has finally become intelligent and can talk to us fluently! And all this can be done with just a Shortcut and an API key.
 
 # Preparation
@@ -16,8 +14,7 @@ Click the link below to download shortcuts, support iPhone、iPad、Mac、HomePo
 
 ### Azure ChatGPT Siri 1.0
 
-- [简体中文版](https://www.icloud.com/shortcuts/e663292993114a5ba1876023adb5f691)
-- [English Version](https://www.icloud.com/shortcuts/e49118e4243e49cbbd29750b1b741a25)
+- [English Version](https://www.icloud.com/shortcuts/3c6812644c564691a1a4d4b4410a7801)
 
 
 # Edit shortcut to replace API key
