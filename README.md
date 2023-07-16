@@ -31,7 +31,7 @@ Open the "Shortcuts" app, find the downloaded "ChatGPT" shortcut, press and hold
 
 **ENDPOINT:** This value can be found in the Keys & Endpoint section when examining your resource from the Azure portal. Alternatively, you can find the value in the Azure OpenAI Studio > Playground > Code View. An example endpoint is: https://docs-test-001.openai.azure.com (no / in the end).
 
-**Deployment Name** 
+**Deployment Name**  See https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/create-resource?pivots=web-portal
 
 # How to use it
 
