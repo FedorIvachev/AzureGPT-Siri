@@ -22,7 +22,7 @@ Click the link below to download shortcuts, support iPhone、iPad、Mac、HomePo
 Open the "Shortcuts" app, find the downloaded "ChatGPT" shortcut, press and hold to select "Edit", and paste the above API key into the text box below.
 
 <div align="center">
-<img width="500" src="img/replace-api-key.png" />
+<img width="500" src="img/IMG_9585.JPG" />
 </div>
 
 # How to use it
