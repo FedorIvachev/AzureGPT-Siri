@@ -2,7 +2,7 @@
 
 Start the "Shortcut" through Siri to connect to the Azure OpenAI API, turning Siri into an AI chat assistant. You can speak your question directly to Siri, and Siri will answer you. Now our Siri has finally become intelligent and can talk to us fluently! And all this can be done with just a Shortcut and an API key.
 
-**Since OpenAI restricts using its services in many countries, Azure OpenAI API is a better choice, don't need to use VPN.**
+**Since OpenAI restricts using its services in many countries, Azure OpenAI API is a better choice, don't need to use VPN, while access the same GPT models as in OpenAI API.**
 
 # Preparation
 
