@@ -14,7 +14,7 @@ Click the link below to download shortcuts, support iPhone、iPad、Mac、HomePo
 
 ### Azure ChatGPT Siri 1.0
 
-- [English Version](https://www.icloud.com/shortcuts/03188fd515ae435889f7f36a7ab16d95)
+- [English Version](https://www.icloud.com/shortcuts/002ea0e8511f4a1abf8e35fd11f96bd7)
 
 
 # Edit shortcut to replace API key
