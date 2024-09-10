@@ -1,5 +1,7 @@
 # 🤖️ AzureGPT Siri
 
+2024-09-10 UPD: Bug fix (knowledge cutoff) + 简体中文版
+
 Start the "Shortcut" through Siri to connect to the Azure OpenAI API, turning Siri into an AI chat assistant. You can speak your question directly to Siri, and Siri will answer you. Now our Siri has finally become intelligent and can talk to us fluently! And all this can be done with just a Shortcut and an API key.
 
 **Since OpenAI restricts using its services in many countries, Azure OpenAI API is a better choice, don't need to use VPN, while can access the same GPT models as in OpenAI API.**
@@ -18,7 +20,7 @@ Start the "Shortcut" through Siri to connect to the Azure OpenAI API, turning Si
 
 Click the link below to download the shortcut. It supports iPhone, iPad, Mac, HomePod, CarPlay.
 
-### AzureGPT Siri 1.0
+### AzureGPT Siri 2.0
 
 - [English Version](https://www.icloud.com/shortcuts/4ba80014d52f48ce984883cc7fb1bc58)
 - [简体中文版](https://www.icloud.com/shortcuts/c86e374b230c41cd916798779d3127e8)
