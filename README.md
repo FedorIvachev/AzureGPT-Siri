@@ -20,7 +20,7 @@ Click the link below to download the shortcut. It supports iPhone, iPad, Mac, Ho
 
 ### AzureGPT Siri 1.0
 
-- [English Version](https://www.icloud.com/shortcuts/002ea0e8511f4a1abf8e35fd11f96bd7)
+- [English Version](https://www.icloud.com/shortcuts/4ba80014d52f48ce984883cc7fb1bc58)
 
 
 # Edit shortcut to replace API key, Azure OpenAI Endpoint and Deployment Name
