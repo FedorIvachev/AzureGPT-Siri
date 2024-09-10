@@ -4,6 +4,10 @@ Start the "Shortcut" through Siri to connect to the Azure OpenAI API, turning Si
 
 **Since OpenAI restricts using its services in many countries, Azure OpenAI API is a better choice, don't need to use VPN, while can access the same GPT models as in OpenAI API.**
 
+通过 Siri 启动「快捷指令」连接 Azure OpenAI API，将 Siri 变成 AI 聊天助手。你可以直接对 Siri 说出你的问题，Siri 会回答你。现在我们的 Siri 终于变得智能了，可以与我们流利地对话！而这一切只需要一个快捷指令和 API key 就能实现。
+
+**由于 OpenAI 在许多国家限制使用其服务，Azure OpenAI API 是一个更好的选择，不需要使用 VPN，同时可以访问与 OpenAI API 相同的 GPT 模型。**
+
 # Preparation
 
 - Ensure that there is enough balance in the API account: https://portal.azure.com/#home.
